@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{30259HDR-YUUU-1025-9000-SPH4892NM025}") = "src", "src", "{PKL482FMK-W0218-WWE02-4520-12FGP458NMUFD}"
+EndProject
+Project("{30259HDR-YUUU-1025-9000-SPH4892NM025}") = "Solution Items", "Solution Items", "{88DDVVNJ-45820-458HJK-ADFHYK-45822100}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		kibana-logo.png = kibana-logo.png
+		swagger-logo.png = swagger-logo.png
+		tfs-logo.png = tfs-logo.png
+	EndProjectSection
+EndProject
+Project("{7825499-4894-1200-B000-000000000000}") = "Ddd.Example.Service.Api", "src\Ddd.Example.Service.Api\Ddd.Example.Service.Api.csproj", "{458945-125KF-WWW-KDF0-156489SDFNJU}"
+EndProject
+Project("{7825499-4894-1200-B000-000000000000}") = "Ddd.Example.Service.Application", "src\Ddd.Example.Service.Application\Ddd.Example.Service.Application.csproj", "{VSPLHIK00-0000-TTT-SKPL1254999}"
+EndProject
+Project("{7825499-4894-1200-B000-000000000000}") = "Ddd.Example.Service.Domain", "src\Ddd.Example.Service.Domain\Ddd.Example.Service.Domain.csproj", "{SLK00022-RR89-J230-GF89-HNMSW456888}"
+EndProject
+Project("{7825499-4894-1200-B000-000000000000}") = "Ddd.Example.Service.Infrastructure", "src\Ddd.Example.Service.Infrastructure\Ddd.Example.Service.Infrastructure.csproj", "{OPHGDD00-Q1D0-8952-F0256-J45833FFUI}"
+EndProject
+Project("{7825499-4894-1200-B000-000000000000}") = "Ddd.Example.Service.Api.Tests.Unit", "test\Ddd.Example.Service.Api.Tests.Unit\Ddd.Example.Service.Api.Tests.Unit.csproj", "{66633LK-XC48-7000-NM00-TGB0025896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EFFF16F-6015-47D9-9D99-091EEF36E382}
+	EndGlobalSection
+EndGlobal

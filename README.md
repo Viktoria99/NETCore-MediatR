@@ -1,0 +1,2 @@
+# NETCore + MediatR
+
